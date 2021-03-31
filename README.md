@@ -10,6 +10,8 @@ Features Include:
 2. Detailed Registration Form (Student)
 3. Automatically save the data in a spreadsheet
 
+Note: Edit the file and update the location of the spreadsheet file before running the code
+
 Hope you like this project. Feel free to connect with me on [GitHub](https://github.com/keerthanrgowda) and [Instagram](https://istagram.com/keerthanrgowda).
 
 Happy Coding :)
